@@ -1,0 +1,5 @@
+theme: jekyll-theme-cayman
+title: Visualisation avec R
+description: Laurent Rouvière
+github:
+  is_project_page: false
