@@ -4,10 +4,6 @@
 - [slides](pres_R.pdf)
 - [slides au format rapport](pres_R_article1.pdf)
 
----
-
-- [slides, partie stat](cours_stat_ens.pdf)
-- [slides au format rapport, partie stat](cours_article_ens.pdf)
 
 
 ### Exercices, notebook
