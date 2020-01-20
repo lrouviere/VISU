@@ -1,9 +1,11 @@
 
 ### Documents de cours
 
-- [slides](pres_R.pdf)
-- [slides au format rapport](pres_R_article1.pdf)
+- [slides](pres_visu.pdf)
 
+<!---
+- [slides au format rapport](pres_R_article1.pdf)
+--->
 
 
 ### Exercices, notebook
