@@ -19,7 +19,7 @@
 
 ### Corrections
 
-- [Tuto 1](fiche1.nb.html)
+- [Tuto 1](tuto_ggplot2.html)
 - [Tuto 2](fiche2_cor.html)
 - [Tuto 3](fiche3_cor.html)
 
