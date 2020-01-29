@@ -13,7 +13,7 @@
 - Tuto 1 : Visualisation avec ggplot2, [Rmd](std_tuto_ggplot2.Rmd), [html](std_tuto_ggplot2.nb.html)
   - graphes pour éditer la fiche : [Challenge 1](challenge1.pdf), [Challenge 2](challenge2.pdf), [Challenge 3](challenge3.pdf), [Challenge 4](challenge4.pdf)
 - Tuto 2 : Cartographie, [Rmd](std_tuto_carto.Rmd), [html](std_tuto_carto.nb.html)
-- Tuto 3 : Visualisation intéractive, [Rmd](fiche3_stu.Rmd), [html](fiche3_stu.nb.html)
+- Tuto 3 : Visualisation intéractive, [Rmd](std_tuto_shiny.Rmd), [html](std_tuto_shiny.nb.html)
 
 
 
@@ -39,6 +39,9 @@
   - [tauxchomage.csv](tauxchomage.csv)
   - [villes_fr.csv](villes_fr.csv)
   
+- Tuto 3
+  - [temperat.txt](temperat.txt)
+  - [trace_roc.R](trace_roc.R)
   
   
   
