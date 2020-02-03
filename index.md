@@ -38,6 +38,8 @@
   - [synop.2018011215.csv](synop.2018011215.csv)
   - [tauxchomage.csv](tauxchomage.csv)
   - [villes_fr.csv](villes_fr.csv)
+  - [coord_ville_exo1.csv](coord_ville_exo1.csv) (géolocalisation des villes pour l'exercice 1 si besoin)
+  - [coord.ville_sf.csv](coord.ville_sf.csv) (géolocalisation des villes pour la partie sf si besoin)
   
 - Tuto 3
   - [temperat.txt](temperat.txt)
