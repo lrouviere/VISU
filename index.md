@@ -20,7 +20,7 @@
 ### Corrections
 
 - [Tuto 1](tuto_ggplot2.html)
-- [Tuto 2](fiche2_cor.html)
+- [Tuto 2](tuto_carto.html)
 - [Tuto 3](fiche3_cor.html)
 
 
