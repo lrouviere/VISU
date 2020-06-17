@@ -1,28 +1,20 @@
 
+Ce cours présente quelques outils **R** pour la **visualisation de données**. Il nécessite des connaissances de base en **R** et en programmation et se structure en 3 parties :
+
+* `Visualisation avec ggplot2` : présentation du package **ggplot2** pour faire des représentations graphiques avec **R** ;
+* `Introduction à la cartographie` : construction de cartes avec les packages `ggmap`, `sf` et `leaflet` ;
+* `Visualisation interactive`: présentation de packages qui permettent de faire facilement des graphes interactifs, des tableaux de bord ou des applications web (**shiny**).
+
+
+
 ### Documents de cours
 
 - [slides](pres_visu.pdf)
+- [tutoriel](https://lrouviere.github.io/TUTO_VISU/)
 
 <!---
 - [slides au format rapport](pres_R_article1.pdf)
 --->
-
-
-### Exercices, notebook
-
-- Tuto 1 : Visualisation avec ggplot2, [Rmd](std_tuto_ggplot2.Rmd), [html](std_tuto_ggplot2.nb.html)
-  - graphes pour éditer la fiche : [Challenge 1](challenge1.pdf), [Challenge 2](challenge2.pdf), [Challenge 3](challenge3.pdf), [Challenge 4](challenge4.pdf)
-- Tuto 2 : Cartographie, [Rmd](std_tuto_carto.Rmd), [html](std_tuto_carto.nb.html)
-- Tuto 3 : Visualisation intéractive, [Rmd](std_tuto_shiny.Rmd), [html](std_tuto_shiny.nb.html)
-
-
-
-### Corrections
-
-- [Tuto 1](tuto_ggplot2.html)
-- [Tuto 2](tuto_carto.html)
-- [Tuto 3](fiche3_cor.html)
-
 
 
 
@@ -39,11 +31,14 @@
   - [tauxchomage.csv](tauxchomage.csv)
   - [villes_fr.csv](villes_fr.csv)
   - [coord_ville_exo1.csv](coord_ville_exo1.csv) (géolocalisation des villes pour l'exercice 1 si besoin)
-  - [coord.ville_sf.csv](coord.ville_sf.csv) (géolocalisation des villes pour la partie sf si besoin)
+  - [coord_ville_nc.csv](coord_ville_nc.csv) (géolocalisation des villes pour la partie sf si besoin)
+  - [donnees_temp_fr.csv](donnees_temp_fr.csv) (données température pour le challenge si besoin)
+  - [station_temp_fr.csv](station_temp_fr.csv) (données station pour le challenge si besoin)
+  - [sta.Paris.csv](sta.Paris.csv) (données sur les stations velib si besoin)
   
 - Tuto 3
-  - [temperat.txt](temperat.txt)
-  - [trace_roc.R](trace_roc.R)
+  - [Dataset1-Media-Example-NODES.csv](Dataset1-Media-Example-NODES.csv)
+  - [Dataset1-Media-Example-EDGES.csv](Dataset1-Media-Example-EDGES.csv)
   
   
   
