@@ -26,11 +26,11 @@ Ce cours présente quelques outils **R** pour la **visualisation de données**. 
 
 ### Jeux de données
 
-- Tuto 1
+- Ggplot
   - [ozone.txt](ozone.txt)
   - [taches_solaires.csv](taches_solaires.csv)
   
-- Tuto 2
+- Cartes
   - [dpt.zip](dpt.zip)
   - [postesSynop.csv](postesSynop.csv)
   - [synop.2018011215.csv](synop.2018011215.csv)
@@ -40,10 +40,10 @@ Ce cours présente quelques outils **R** pour la **visualisation de données**. 
   - [coord_ville_nc.csv](coord_ville_nc.csv) (géolocalisation des villes pour la partie sf si besoin)
   - [donnees_temp_fr.csv](donnees_temp_fr.csv) (données température pour le challenge si besoin)
   - [station_temp_fr.csv](station_temp_fr.csv) (données station pour le challenge si besoin)
-  - [regions-20180101-shp.zip](regions-20180101-shp.zip)
+  - [regions-20180101-shp.zip](https://www.data.gouv.fr/fr/datasets/contours-des-regions-francaises-sur-openstreetmap/#_)
   - [sta.Paris.csv](sta.Paris.csv) (données sur les stations velib si besoin)
   
-- Tuto 3
+- Visu intéractive
   - [Dataset1-Media-Example-NODES.csv](Dataset1-Media-Example-NODES.csv)
   - [Dataset1-Media-Example-EDGES.csv](Dataset1-Media-Example-EDGES.csv)
   
