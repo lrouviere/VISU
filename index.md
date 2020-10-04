@@ -9,8 +9,14 @@ Ce cours présente quelques outils **R** pour la **visualisation de données**. 
 
 ### Documents de cours
 
-- [slides](pres_visu.pdf)
-- [tutoriel](https://lrouviere.github.io/TUTO_VISU/)
+- Version anglaise
+    * [slides](pres_dataviz.pdf)
+    * [slides (version imprimable)](pres_dataviz_article.pdf)
+    * [tutoriel](https://lrouviere.github.io/TUTO_DATAVIZ/)
+    
+- Version française
+    * [slides](pres_visu.pdf)
+    * [tutoriel](https://lrouviere.github.io/TUTO_VISU/)
 
 <!---
 - [slides au format rapport](pres_R_article1.pdf)
@@ -34,6 +40,7 @@ Ce cours présente quelques outils **R** pour la **visualisation de données**. 
   - [coord_ville_nc.csv](coord_ville_nc.csv) (géolocalisation des villes pour la partie sf si besoin)
   - [donnees_temp_fr.csv](donnees_temp_fr.csv) (données température pour le challenge si besoin)
   - [station_temp_fr.csv](station_temp_fr.csv) (données station pour le challenge si besoin)
+  - [regions-20180101-shp.zip](regions-20180101-shp.zip)
   - [sta.Paris.csv](sta.Paris.csv) (données sur les stations velib si besoin)
   
 - Tuto 3
