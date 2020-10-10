@@ -14,6 +14,11 @@ Ce cours présente quelques outils **R** pour la **visualisation de données**. 
     * [slides (version imprimable)](pres_dataviz_article.pdf)
     * [tutoriel](https://lrouviere.github.io/TUTO_DATAVIZ/)
     
+- Partie Shiny
+    * [cours](pres_shiny.pdf)
+    * Applications :
+      * app_structure: [ui.R](SHINY_APP/app_structure/ui.R), [server.R](SHINY_APP/app_structure/server.R)
+    
 - Version française
     * [slides](pres_visu.pdf)
     * [tutoriel](https://lrouviere.github.io/TUTO_VISU/)
