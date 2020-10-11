@@ -3,7 +3,7 @@ Ce cours présente quelques outils **R** pour la **visualisation de données**. 
 
 * `Visualisation avec ggplot2` : présentation du package **ggplot2** pour faire des représentations graphiques avec **R** ;
 * `Introduction à la cartographie` : construction de cartes avec les packages `ggmap`, `sf` et `leaflet` ;
-* `Visualisation interactive`: présentation de packages qui permettent de faire facilement des graphes interactifs, des tableaux de bord ou des applications web (**shiny**).
+* `Visualisation interactive` : présentation de packages qui permettent de faire facilement des graphes interactifs, des tableaux de bord ou des applications web (**shiny**).
 
 
 
@@ -17,7 +17,9 @@ Ce cours présente quelques outils **R** pour la **visualisation de données**. 
 - Partie Shiny
     * [cours](pres_shiny.pdf)
     * Applications :
-      * app_structure: [ui.R](SHINY_APP/app_structure/ui.R), [server.R](SHINY_APP/app_structure/server.R)
+        * app_structure : [ui.R](SHINY_APP/app_structure/ui.R), [server.R](SHINY_APP/app_structure/server.R)
+        
+    * Corrections :
     
 - Version française
     * [slides](pres_visu.pdf)
