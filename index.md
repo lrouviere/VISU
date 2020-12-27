@@ -7,7 +7,7 @@ Ce cours présente quelques outils **R** pour la **visualisation de données**. 
 
 
 
-### Documents de cours
+### Documents de cours A
 
 - Version française
     * [slides](pres_visu.pdf)
