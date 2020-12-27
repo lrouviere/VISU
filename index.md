@@ -9,6 +9,11 @@ Ce cours présente quelques outils **R** pour la **visualisation de données**. 
 
 ### Documents de cours
 
+- Version française
+    * [slides](pres_visu.pdf)
+    * [slides (version imprimable)](pres_visu_article.pdf)
+    * [tutoriel](https://lrouviere.github.io/TUTO_VISU/)
+    
 - Version anglaise
     * [slides](pres_dataviz.pdf)
     * [slides (version imprimable)](pres_dataviz_article.pdf)
@@ -25,9 +30,7 @@ Ce cours présente quelques outils **R** pour la **visualisation de données**. 
         * reactive/isolation/observe/html... : [ui.R](SHINY_APP/app_plus_loin/ui.R), [server.R](SHINY_APP/app_plus_loin/server.R), [global.R](SHINY_APP/app_plus_loin/global.R)
       
     
-- Version française
-    * [slides](pres_visu.pdf)
-    * [tutoriel](https://lrouviere.github.io/TUTO_VISU/)
+
 
 <!---
 - [slides au format rapport](pres_R_article1.pdf)
