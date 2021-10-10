@@ -23,13 +23,14 @@ Ce cours présente quelques outils **R** pour la **visualisation de données**. 
     * [cours](pres_shiny.pdf)
     * Applications :
         * app_structure : [ui.R](SHINY_APP/app_structure/ui.R), [server.R](SHINY_APP/app_structure/server.R)
-        
+
+<!---       
     * Corrections :
         * input/outputs : [ui.R](SHINY_APP/app_input_output_correction/ui.R), [server.R](SHINY_APP/app_input_output_correction/server.R)
         * structure : [ui.R](SHINY_APP/app_structure_correction/ui.R), [server.R](SHINY_APP/app_structure_correction/server.R)
         * reactive/isolation/observe/html... : [ui.R](SHINY_APP/app_plus_loin/ui.R), [server.R](SHINY_APP/app_plus_loin/server.R), [global.R](SHINY_APP/app_plus_loin/global.R)
       
-    
+--->    
 
 
 <!---
